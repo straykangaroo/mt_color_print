@@ -37,7 +37,7 @@ Print `args` to `std::cout`, without being interrupted by other threads, and pre
 Print a space between each adjacent arg.
 
 Params:
-- `...args` arguments, of printable types (i.e. having an extraction to \c std::ostream operator overload)
+- `...args` arguments, of printable types (i.e. having an extraction to `std::ostream` operator overload)
 
 
 #### Example
@@ -66,8 +66,8 @@ void print_range(Iter from, Iter to)
 Print items in the iterator range [from,to) to `std::cout`, without being interrupted by other threads, and preceded by a (perhaps colorized) string representation of the thread's id, between brackets. Each item on its own line.
 
 Params:
-- `from`  iterator pointing to the first element, which must be of a printable type (i.e. having an extraction to \c std::ostream operator overload)
-- `to`    iterator pointing to one past the last element, which must be of a printable type (i.e. having an extraction to \c std::ostream operator overload)
+- `from`  iterator pointing to the first element, which must be of a printable type (i.e. having an extraction to `std::ostream` operator overload)
+- `to`    iterator pointing to one past the last element, which must be of a printable type (i.e. having an extraction to `std::ostream` operator overload)
 
 
 #### Example
