@@ -111,7 +111,7 @@ Tell if coloring of output is enabled.
 
 # Demo
 
-See `demo/mt-color-print-demo` (use `demo\compile.sh` to compile)
+See `demo/mt-color-print-demo` (use `demo/compile.sh` to compile)
 
 
 ## Demo screenshot
