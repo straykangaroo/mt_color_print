@@ -126,4 +126,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Contact
 
-[https://github.com/stray-kan/mt_color_print](https://github.com/stray-kan/mt_color_print)
+[https://github.com/straykangaroo/mt_color_print](https://github.com/straykangaroo/mt_color_print)
