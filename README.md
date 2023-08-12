@@ -1,6 +1,6 @@
 # mt_color_print
 
-Single header library with **simple**, `printf`-like, thread-safe methods for printing colorized debug info to `std::cout`.
+Single header library with **simple**, **thread-safe** methods for printing colorized debug info to `std::cout`.
 
 
 ## Description
